@@ -21,6 +21,16 @@ Python · pandas · SQLite · scikit-learn · Matplotlib/Seaborn · Streamlit
 ## 📁 Dataset
 [UCI Student Performance dataset](https://archive.ics.uci.edu/) (Cortez & Silva, 2008). 395 students, 33 features, no missing values.
 
+## 📈 Results
+| Features | Model | MAE | R² |
+|---|---|---|---|
+| With G1/G2 | Linear Regression | 1.65 | 0.724 |
+| With G1/G2 | Random Forest | 1.17 | 0.811 |
+| Without G1/G2 | Linear Regression | 3.40 | 0.141 |
+| Without G1/G2 | Random Forest | 3.08 | 0.270 |
+
+Earlier grades (G1, G2) are by far the strongest predictors. Without them, predicting final grades is much harder.
+
 ## 🚀 Run Locally
 ```bash
 git clone https://github.com/ismirtibohara/student-performance-predictor.git
@@ -33,12 +43,3 @@ pip install -r requirements.txt
 ## 👩‍💻 Author
 Smriti Bohara · BSc CSIT, Tribhuvan University
 
-## 📈 Results
-| Features | Model | MAE | R² |
-|---|---|---|---|
-| With G1/G2 | Linear Regression | 1.65 | 0.724 |
-| With G1/G2 | Random Forest | 1.17 | 0.811 |
-| Without G1/G2 | Linear Regression | 3.40 | 0.141 |
-| Without G1/G2 | Random Forest | 3.08 | 0.270 |
-
-Earlier grades (G1, G2) are by far the strongest predictors. Without them, predicting final grades is much harder.
