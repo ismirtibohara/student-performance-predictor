@@ -10,8 +10,8 @@ Python · pandas · SQLite · scikit-learn · Matplotlib/Seaborn · Streamlit
 
 ## 📊 Progress
 - [x] Week 1: Project setup, data loading, SQL database, data quality check
-- [ ] Week 2: SQL analysis and charts
-- [ ] Week 3: Exploratory data analysis
+- [x] Week 2: SQL analysis and charts
+- [x] Week 3: Exploratory data analysis
 - [ ] Week 4: Data cleaning and feature encoding
 - [ ] Week 5: Model training and comparison
 - [ ] Week 6: Model tuning
