@@ -12,7 +12,7 @@ Python · pandas · SQLite · scikit-learn · Matplotlib/Seaborn · Streamlit
 - [x] Week 1: Project setup, data loading, SQL database, data quality check
 - [x] Week 2: SQL analysis and charts
 - [x] Week 3: Exploratory data analysis
-- [ ] Week 4: Data cleaning and feature encoding
+- [x] Week 4: Data cleaning and feature encoding
 - [ ] Week 5: Model training and comparison
 - [ ] Week 6: Model tuning
 - [ ] Week 7: Streamlit app
