@@ -14,8 +14,8 @@ Python · pandas · SQLite · scikit-learn · Matplotlib/Seaborn · Streamlit
 - [x] Week 3: Exploratory data analysis
 - [x] Week 4: Data cleaning and feature encoding
 - [x] Week 5: Model training and comparison
-- [ ] Week 6: Model tuning
-- [ ] Week 7: Streamlit app
+- [x] Week 6: Model tuning
+- [x] Week 7: Streamlit app
 - [ ] Week 8: Deployment and final README
 
 ## 📁 Dataset
@@ -30,6 +30,9 @@ Python · pandas · SQLite · scikit-learn · Matplotlib/Seaborn · Streamlit
 | Without G1/G2 | Random Forest | 3.08 | 0.270 |
 
 Earlier grades (G1, G2) are by far the strongest predictors. Without them, predicting final grades is much harder.
+
+## 🖥 App Preview
+![App demo](assets/app_demo.png)
 
 ## 🚀 Run Locally
 ```bash
