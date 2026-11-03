@@ -1,5 +1,5 @@
 # 🎓 Student Performance Predictor
-
+🔗 Live demo: https://smriti-student-grade-predictor.streamlit.app/
 A machine learning project that predicts students' final grades (G3) from study habits, attendance, and past performance.
 
 ## 📌 Problem Statement
@@ -16,7 +16,7 @@ Python · pandas · SQLite · scikit-learn · Matplotlib/Seaborn · Streamlit
 - [x] Week 5: Model training and comparison
 - [x] Week 6: Model tuning
 - [x] Week 7: Streamlit app
-- [ ] Week 8: Deployment and final README
+- [x] Week 8: Deployment and final README
 
 ## 📁 Dataset
 [UCI Student Performance dataset](https://archive.ics.uci.edu/) (Cortez & Silva, 2008). 395 students, 33 features, no missing values.
